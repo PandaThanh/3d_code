@@ -1,0 +1,14 @@
+﻿  main.cpp
+g:\project_code\show_skeleton_3d\show_skeleton_3d\main.cpp(9): warning C4101: 'filenameimagewrite' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\main.cpp(37): warning C4101: 'elapsed_secs' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\main.cpp(37): warning C4101: 'end' : unreferenced local variable
+  visualizer.cpp
+g:\project_code\show_skeleton_3d\show_skeleton_3d\impl\visualizer.cpp(238): warning C4101: 'file' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\impl\visualizer.cpp(399): warning C4101: 'fileobject2' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\impl\visualizer.cpp(507): warning C4101: 'fileobject2' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\impl\visualizer.cpp(549): warning C4101: 'filetex5' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\impl\visualizer.cpp(507): warning C4101: 'fileobject1' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\impl\visualizer.cpp(549): warning C4101: 'filetex4' : unreferenced local variable
+g:\project_code\show_skeleton_3d\show_skeleton_3d\impl\visualizer.cpp(966): warning C4101: 'file' : unreferenced local variable
+  Generating Code...
+  Show_skeleton_3D.vcxproj -> G:\PROJECT_CODE\Show_skeleton_3D\Debug\Show_skeleton_3D.exe

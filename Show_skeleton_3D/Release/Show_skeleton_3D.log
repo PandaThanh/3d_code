@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(9): warning C4101: 'filenameimagewrite' : unreferenced local variable
+main.cpp(41): warning C4101: 'elapsed_secs' : unreferenced local variable
+main.cpp(41): warning C4101: 'end' : unreferenced local variable
+  Generating code
+  Finished generating code
+  Show_skeleton_3D.vcxproj -> G:\PROJECT_CODE\Show_skeleton_3D\Release\Show_skeleton_3D.exe
